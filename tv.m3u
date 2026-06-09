@@ -18,5 +18,5 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
 #EXTVLCOPT:http-user-agent=RaiPlay AppleTV
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
 
-#EXTINF:-1 tvg-id="OE3.at" tvg-name="Hitradio Ö3" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Hitradio_%C3%963_Logo_2019.svg" tvg-chno="6" group-title="Austria",Hitradio Ö3
+#EXTINF:-1 tvg-id="OE3.at" tvg-name="Hitradio Ö3" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Hitradio_%C3%963.svg" tvg-chno="6" group-title="Austria",Hitradio Ö3
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
