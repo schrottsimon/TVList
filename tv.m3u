@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Das_Erste_2014.svg" tvg-chno="1" group-title="Germany",Das Erste
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/960px-Das_Erste_2014.svg.png" tvg-chno="1" group-title="Germany",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/ProSieben_Logo_2015.svg" tvg-chno="2" group-title="Germany",ProSieben
