@@ -20,3 +20,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
 
 #EXTINF:-1 tvg-id="OE3.at" tvg-name="Hitradio Ö3" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Hitradio_%C3%963.svg" tvg-chno="6" group-title="Austria",Hitradio Ö3
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
+
+#EXTINF:-1 tvg-id="RedBullSports.de" tvg-name="Red Bull Sports" tvg-logo="" tvg-chno="7" group-title="Germany",Red Bull Sports
+https://play.redbull.com/streams/v1/stv/sports_de/fmp4/master.m3u8
